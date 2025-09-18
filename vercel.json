@@ -1,14 +1,14 @@
 {
   "builds": [
     {
-      "src": "dashboard_app.py",
+      "src": "app.py",
       "use": "@vercel/python"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "dashApp.py"
+      "dest": "app.py"
     }
   ]
 }
