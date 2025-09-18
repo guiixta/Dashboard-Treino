@@ -1,0 +1,21 @@
+ID_Pedido,Data_Venda,Categoria,Nome_Produto,Quantidade,Preco_Unitario
+101,2025-08-01,Acessórios,Capa para Celular,2,50.00
+102,2025-08-01,Acessórios,Carregador Rápido,1,120.00
+103,2025-08-02,Smartphones,Celular Modelo X,1,2500.00
+104,2025-08-03,Computadores,Notebook Gamer,1,5500.00
+105,2025-08-04,Acessórios,Fone Bluetooth,2,250.00
+106,2025-08-05,Acessórios,Capa para Celular,1,50.00
+107,2025-08-06,Smartphones,Celular Modelo Y,1,3200.00
+108,2025-08-07,Acessórios,Carregador Rápido,1,120.00
+109,2025-08-10,Computadores,Monitor 24",2,900.00
+110,2025-08-11,Computadores,Teclado Mecânico,1,350.00
+111,2025-08-12,Smartphones,Celular Modelo X,1,2500.00
+112,2025-08-13,Acessórios,Fone Bluetooth,1,250.00
+113,2025-08-15,Smartphones,Celular Modelo Z,1,4100.00
+114,2025-08-17,Computadores,Notebook Gamer,1,5550.00
+115,2025-08-18,Acessórios,Capa para Celular,3,45.00
+116,2025-08-20,Computadores,Monitor 24",1,900.00
+117,2025-08-22,Smartphones,Celular Modelo Y,1,3150.00
+118,2025-08-25,Acessórios,Carregador Rápido,2,110.00
+119,2025-08-28,Computadores,Teclado Mecânico,1,350.00
+120,2025-08-30,Smartphones,Celular Modelo X,1,2450.00

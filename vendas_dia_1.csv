@@ -1,0 +1,8 @@
+id_transacao,produto,preco,quantidade,data_venda
+1,Smartphone,2500.00,1,2025-09-17
+2,Notebook,4500.00,1,2025-09-17
+3,Fone de Ouvido,150.50,2,2025-09-17
+4,Carregador,80.00,3,2025-09-17
+5,Smartphone,2500.00,1,2025-09-17
+6,Teclado,350.00,2,2025-09-17
+7,Notebook,4650.00,1,2025-09-17
